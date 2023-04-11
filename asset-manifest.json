@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tourist_tent/static/css/main.070d5b7e.css",
+    "main.js": "/tourist_tent/static/js/main.c427d204.js",
+    "index.html": "/tourist_tent/index.html",
+    "main.070d5b7e.css.map": "/tourist_tent/static/css/main.070d5b7e.css.map",
+    "main.c427d204.js.map": "/tourist_tent/static/js/main.c427d204.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.070d5b7e.css",
+    "static/js/main.c427d204.js"
+  ]
+}
